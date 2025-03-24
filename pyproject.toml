@@ -10,5 +10,5 @@ Repository = "https://github.com/wywywywy/ComfyUI-pause"
 
 [tool.comfy]
 PublisherId = "wywywywy"
-DisplayName = "wywywywy-pause"
+DisplayName = "ComfyUI-pause"
 Icon = ""
