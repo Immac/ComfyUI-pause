@@ -12,6 +12,13 @@
 2. Check for artifacts before continuing
 
 ## Installation
+
+### ComfyUI Manager
+
+Search for `ComfyUI-pause` in the Node Palette
+
+### Manually
+
 1. Clone this repo to `ComfyUI/custom_nodes`
 2. Restart ComfyUI
 

@@ -5,7 +5,7 @@ const postContinue = (nodeId) => fetch("/pause_workflow/continue/" + nodeId, { m
 const postCancel = () => fetch("/pause_workflow/cancel", { method: "POST" });
 
 app.registerExtension({
-  name: "wywywywy.pause_workflow",
+  name: "wywywywy-pause",
   nodeCreated(node) {
     if (node.comfyClass === "PauseWorkflowNode") {
       const continueBtn = node.addWidget("button", "✔️ Continue", "CONTINUE", () => {
