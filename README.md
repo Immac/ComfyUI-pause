@@ -1,5 +1,7 @@
 # ComfyUI Pause Workflow Node
 
+> **Note**: This is a fork that uses threading for pauses instead of sleep-based blocking.
+
 ![Node Preview](./assets/screenshot.png)
 
 ## Features
